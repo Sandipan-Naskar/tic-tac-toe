@@ -1,8 +1,8 @@
 # 🕹️ Tic-Tac-Toe Web App
 
-A simple and clean web-based **Tic-Tac-Toe** game built with **Python Flask** and **HTML/CSS/JS**. The app features a modern UI with smooth gameplay and is ready to be deployed on platforms like **Render**, **Railway**, or **Heroku**.
+A simple and clean web-based **Tic-Tac-Toe** game built with **Python Flask** and **HTML/CSS/JS**. The app features a modern UI with smooth gameplay.
 
-![Screenshot](https://user-images.githubusercontent.com/your-screenshot-placeholder)
+
 
 ---
 
@@ -21,7 +21,6 @@ A simple and clean web-based **Tic-Tac-Toe** game built with **Python Flask** an
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python (Flask)
-- **Deployment**: Render / Railway / Heroku
 
 ---
 
