@@ -25,10 +25,18 @@ A simple and clean web-based **Tic-Tac-Toe** game built with **Python Flask** an
 ## 📦 Project Structure
 
 tic-tac-toe/
+|
 ├── app.py # Flask backend logic
+|
 ├── requirements.txt
+|
 ├── templates/
+|
+|
 │ └── index.html # Main UI
+|
 ├── static/
+|
 │ └── style.css # Styling
+|
 └── README.md
