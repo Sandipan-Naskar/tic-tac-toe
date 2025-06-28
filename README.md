@@ -2,8 +2,6 @@
 
 A simple and clean web-based **Tic-Tac-Toe** game built with **Python Flask** and **HTML/CSS/JS**. The app features a modern UI with smooth gameplay.
 
-
-
 ---
 
 ## 🎯 Features
